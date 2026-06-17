@@ -1,0 +1,17 @@
+quality_check,result
+"Total rows remaining",3726
+"Missing total_laid_off",810
+"Missing percentage_laid_off",931
+"Missing industry",2
+"Missing country",0
+"Missing location",1
+"Missing funds_raised",418
+"Missing stage",606
+"Invalid percentages (outside 0-1)",0
+"Future dates",0
+"Negative layoff values",0
+"Non-U.S. suffix with US country (contradictions)",0
+"Garbled location names (merged city names)",0
+"UAE variant remaining (should be 0)",0
+"Distinct countries in clean dataset",60
+"Distinct industries in clean dataset",30
