@@ -1,0 +1,253 @@
+location,country,occurrences
+Abuja,Nigeria,1
+Accra,Ghana,2
+Ahmedabad,India,1
+Alamosa,"United States",1
+Albany,"United States",1
+Amsterdam,Netherlands,25
+"Ann Arbor","United States",4
+Athens,Greece,1
+Atlanta,"United States",31
+Auckland,"New Zealand",8
+Austin,"United States",75
+Baltimore,"United States",6
+Bangkok,Thailand,1
+Barcelona,Spain,7
+"Baton Rouge","United States",1
+"Beau Vallon",Seychelles,1
+Beijing,China,12
+"Belo Horizonte",Brazil,5
+Bend,"United States",2
+Bengaluru,India,199
+Berlin,Germany,98
+Birmingham,"United States",5
+Bismarck,"United States",1
+Blumenau,Brazil,3
+Bogota,Colombia,5
+Boise,"United States",7
+Boston,"United States",190
+Boulder,"United States",17
+Brasilia,Brazil,1
+Brisbane,Australia,9
+Brisbane,"United States",1
+Bristol,"United Kingdom",3
+Brno,"Czech Republic",3
+Brussels,Belgium,1
+Bucharest,Romania,2
+Budapest,Hungary,1
+"Buenos Aires",Argentina,7
+Burlington,"United States",1
+Cairo,Egypt,3
+Calgary,Canada,8
+"Cape Town","South Africa",1
+"Cayman Islands","Cayman Islands",3
+"Cedar Falls","United States",1
+Charleston,"United States",2
+Charlotte,"United States",6
+Charlottesville,"United States",1
+Chattanooga,"United States",1
+Chemnitz,Germany,2
+Chennai,India,10
+Chester,"United Kingdom",1
+Chicago,"United States",57
+Cincinnati,"United States",5
+Cleveland,"United States",2
+Cluj-Napoca,Romania,1
+Coimbra,Portugal,1
+Cologne,Germany,2
+Columbus,"United States",22
+Copenhagen,Denmark,9
+Cork,Ireland,1
+Corvallis,"United States",1
+Curitiba,Brazil,6
+Dakar,Senegal,1
+Dallas,"United States",13
+Davenport,"United States",1
+Denver,"United States",34
+Detroit,"United States",15
+Dover,"United States",2
+Dresden,Germany,1
+Dubai,"United Arab Emirates",9
+Dublin,Ireland,14
+Durham,"United States",5
+Düsseldorf,Germany,2
+Edinburgh,"United Kingdom",3
+Eindhoven,Netherlands,1
+Espoo,Finland,1
+Evansville,"United States",1
+Fayetteville,"United States",1
+Ferdericton,Canada,1
+FlorianÃ³polis,Brazil,1
+Førde,Norway,1
+"Fort Collins","United States",1
+Frankfurt,Germany,3
+Geneva,Switzerland,1
+Ghent,Belgium,1
+Gothenburg,Sweden,1
+"Grand Rapids","United States",3
+Guadalajara,Mexico,2
+Gurugram,India,37
+Gydnia,Poland,1
+Haifa,Israel,3
+Hamburg,Germany,6
+Hangzhou,China,2
+Hanoi,Vietnam,1
+Hartford,"United States",1
+Helsinki,Finland,6
+"Ho Chi Minh City",Vietnam,2
+Holmdel,"United States",1
+"Hong Kong","Hong Kong",6
+Houston,"United States",2
+Huntsville,"United States",1
+Hyderabad,India,3
+Ibadan,Nigeria,3
+Indianapolis,"United States",4
+Indore,India,1
+Islamabad,Pakistan,1
+Istanbul,Turkey,2
+Jacksonville,"United States",1
+Jakarta,Indonesia,42
+"Jersey City","United States",1
+Jerusalem,Israel,12
+Joinville,Brazil,2
+"Kansas City","United States",6
+Karachi,Pakistan,2
+Karlsruhe,Germany,3
+"Kfar Saba",Israel,1
+Kiel,Germany,1
+Kitchener,Canada,1
+Kolkata,India,1
+Krakow,Poland,3
+"Kuala Lumpur",Malaysia,3
+Kyiv,Ukraine,1
+Lagos,Nigeria,32
+Lahore,Pakistan,2
+"Las Vegas","United States",6
+Leeds,"United Kingdom",1
+Lehi,"United States",9
+Lexington,"United States",2
+Lima,Peru,1
+Limassol,Cyprus,2
+Linz,Austria,2
+Lisbon,Portugal,3
+"Little Rock","United States",2
+Lodz,Poland,1
+Logan,"United States",3
+London,"United Kingdom",135
+"Los Angeles","United States",164
+Louisville,"United States",3
+Luxembourg,Luxembourg,4
+Madison,"United States",2
+Madrid,Spain,3
+Malmö,Sweden,3
+Manama,Bahrain,1
+Manchester,"United Kingdom",5
+Manila,Philippines,1
+Melbourne,Australia,23
+Memphis,"United States",2
+"Mexico City",Mexico,5
+Miami,"United States",27
+Milan,Italy,1
+Milwaukee,"United States",4
+Minneapolis,"United States",15
+Missoula,"United States",3
+Monterrey,Mexico,1
+Montevideo,Uruguay,4
+Montreal,Canada,26
+Moscow,Russia,1
+Mumbai,India,43
+Munich,Germany,13
+Nairobi,Kenya,15
+Nashik,India,1
+Nashua,"United States",2
+Nashville,"United States",7
+"Nebraska City","United States",1
+"New Delhi",India,30
+"New Haven","United States",2
+"New Hope","United States",1
+"New Orleans","United States",1
+"New York City","United States",445
+Nicosia,Cyprus,1
+Noida,India,7
+Norfolk,"United States",1
+Norwalk,"United States",4
+"Oklahoma City","United States",2
+Omaha,"United States",1
+Orlando,"United States",4
+Oslo,Norway,10
+Ottawa,Canada,10
+Oxford,"United Kingdom",2
+Paris,France,21
+Patna,India,1
+Philadelphia,"United States",15
+Phoenix,"United States",19
+Pittsburgh,"United States",11
+Portland,"United States",29
+"Porto Alegre",Brazil,1
+Prague,"Czech Republic",2
+Providence,"United States",1
+Pune,India,2
+Quebec,Canada,2
+Ra'anana,Israel,2
+Raleigh,"United States",15
+Reno,"United States",5
+Richmond,"United States",1
+Riyadh,"Saudi Arabia",1
+Rochester,"United States",1
+Sacramento,"United States",12
+Salisbury,"United Kingdom",1
+"Salt Lake City","United States",33
+"San Antonio","United States",3
+"San Diego","United States",36
+"San Luis Obispo","United States",2
+Sandnes,Norway,1
+"Santa Barbara","United States",7
+"Santa Fe","United States",3
+Santiago,Chile,6
+"Sao Paulo",Brazil,69
+Saskatoon,Canada,5
+Sderot,Israel,1
+Seattle,"United States",194
+Selangor,Malaysia,1
+Seoul,"South Korea",3
+"SF Bay Area","United States",1108
+Shanghai,China,8
+Shenzen,China,8
+Singapore,Singapore,55
+Sliema,Malta,1
+Sofia,Bulgaria,1
+Spokane,"United States",2
+"St. Gallen",Switzerland,1
+"St. Louis","United States",12
+Stamford,"United States",6
+Stockholm,Sweden,40
+Sydney,Australia,52
+Tallinn,Estonia,12
+"Tampa Bay","United States",7
+"Tel Aviv",Israel,156
+"The Hague",Netherlands,1
+Tokyo,Japan,8
+Toronto,Canada,81
+Toulouse,France,1
+Trivandrum,India,1
+Trondheim,Norway,1
+Unknown,Seychelles,2
+Utrecht,Netherlands,1
+Vancouver,Canada,30
+Veldhoven,Netherlands,1
+Victoria,Seychelles,1
+Vienna,Austria,6
+Vilnius,Lithuania,3
+Walldorf,Germany,2
+Warsaw,Poland,1
+"Washington D.C.","United States",37
+Waterloo,Canada,10
+Wellington,"New Zealand",3
+Wilmington,"United States",3
+Winnipeg,Canada,2
+Wrocław,Poland,1
+Xi'an,China,1
+Yangon,Myanmar,1
+Yavne,Israel,1
+Zug,Switzerland,2
+Zurich,Switzerland,4
