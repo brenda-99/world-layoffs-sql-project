@@ -1,0 +1,11 @@
+layoff_year,country,industry,total_events,total_laid_off,avg_pct_workforce_cut,full_shutdowns
+2026,"United States",Other,4,31200,15.5,0
+2026,"United States",Retail,5,17350,21.3,0
+2026,"United States",Consumer,11,14022,9.6,0
+2026,"United States",Finance,7,12836,26.8,0
+2026,"United States",Hardware,2,11104,10.0,0
+2026,"United States",Infrastructure,1,4000,5.0,0
+2026,"United States",Security,7,2410,9.6,0
+2026,Australia,Logistics,1,2000,30.0,0
+2026,Netherlands,Hardware,1,1700,NULL,0
+2026,Australia,Other,1,1600,10.0,0
