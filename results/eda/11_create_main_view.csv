@@ -1,0 +1,11 @@
+company,location,country,industry,stage,date,layoff_year,layoff_month,total_laid_off,percentage_laid_off,pct_laid_off_display,funds_raised,severity_band
+&Open,Dublin,Ireland,Marketing,"Series A",2022-11-17,2022,2022-11,9,0.0900,9.0,35.00,"Moderate (<20%)"
+#Paid,Toronto,Canada,Marketing,"Series B",2023-01-27,2023,2023-01,19,0.1700,17.0,21.00,"Moderate (<20%)"
+0G,"SF Bay Area","United States",Crypto,NULL,2026-05-05,2026,2026-05,NULL,0.2500,25.0,NULL,"Major (20-49%)"
+"100 Thieves","Los Angeles","United States",Consumer,"Series C",2022-07-13,2022,2022-07,12,NULL,NULL,120.00,"Not Disclosed"
+"10X Genomics","SF Bay Area","United States",Healthcare,Post-IPO,2022-08-04,2022,2022-08,100,0.0800,8.0,242.00,"Moderate (<20%)"
+"1K Kirana",Gurugram,India,Retail,"Series B",2023-04-04,2023,2023-04,600,0.4000,40.0,NULL,"Major (20-49%)"
+1stdibs,"New York City","United States",Retail,"Series D",2020-04-02,2020,2020-04,70,0.1700,17.0,253.00,"Moderate (<20%)"
+23andMe,"SF Bay Area","United States",Healthcare,Post-IPO,2024-11-11,2024,2024-11,200,0.4000,40.0,1100.00,"Major (20-49%)"
+23andMe,"SF Bay Area","United States",Healthcare,Post-IPO,2023-08-08,2023,2023-08,71,0.1100,11.0,1100.00,"Moderate (<20%)"
+23andMe,"SF Bay Area","United States",Healthcare,Post-IPO,2023-06-09,2023,2023-06,75,0.0900,9.0,1100.00,"Moderate (<20%)"
