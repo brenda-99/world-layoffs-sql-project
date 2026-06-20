@@ -1,0 +1,16 @@
+company,industry,biggest_single_event,industry_avg_biggest_event,times_above_industry_avg
+Amazon,Retail,16000,321,49.8
+Oracle,Other,30000,692,43.4
+Tesla,Transportation,14000,420,33.3
+Philips,Healthcare,6000,188,31.9
+Google,Consumer,12000,469,25.6
+Salesforce,Sales,8000,326,24.5
+PayPal,Finance,4760,196,24.3
+Meta,Consumer,11000,469,23.5
+Flink,Food,8000,379,21.1
+Block,Finance,4000,196,20.4
+Paytm,Finance,3500,196,17.8
+Cerner,Healthcare,3000,188,16.0
+Intuit,Finance,3000,196,15.3
+Microsoft,Other,10000,692,14.5
+Cisco,Infrastructure,5600,393,14.2
