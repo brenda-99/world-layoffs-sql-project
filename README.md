@@ -10,12 +10,6 @@ March 2020 through June 2026.
 
 **Project status:** Complete — all three phases finished.
 
-![Dashboard Overview](dashboard/dashboard_screenshot.png)
-
-![Dashboard Demo](dashboard/dashboard_demo.gif)
-
-📄 [Full dashboard PDF](dashboard/world_layoffs_dashboard.pdf) · 📊 [Download interactive .pbix](dashboard/world_layoffs_dashboard.pbix)
-
 ---
 
 ## Dataset
@@ -99,18 +93,13 @@ corrected along the way — is documented in
 
 ### Results — Before/After Evidence
 
-Full query-by-query output isn't included (most cleaning queries are
-diagnostic, not analytical — they don't produce standalone insights).
-Instead, three snapshots document the cleaning's actual impact:
+Three snapshots capture the cleaning's before/after impact:
 
 | File | What It Shows |
 |------|----------------|
 | [`01_null_audit_baseline.csv`](results/cleaning/01_null_audit_baseline.csv) | NULL/blank count per column **before** cleaning began |
 | [`06_location_country_final.csv`](results/cleaning/06_location_country_final.csv) | Clean location-country map **after** all 36 mismatches resolved |
 | [`10_data_quality_report.csv`](results/cleaning/10_data_quality_report.csv) | Final dashboard query confirming 0 invalid values remain across every check |
-
-Together these three tell the complete before → fixed → verified story
-without cluttering the repo with 40+ diagnostic exports.
 
 ---
 
@@ -166,6 +155,12 @@ alongside `layoffs_staging2` itself.
 
 ## Phase 3 — Power BI Dashboard
 
+![Dashboard Overview](dashboard/dashboard_screenshot.png)
+
+![Dashboard Demo](dashboard/dashboard_demo.gif)
+
+📄 [Full dashboard PDF](dashboard/world_layoffs_dashboard.pdf) · 📊 [Download interactive .pbix](dashboard/world_layoffs_dashboard.pbix)
+
 A 3-page interactive dashboard built directly on `vw_layoffs_enriched`
 and `vw_layoffs_kpi_summary`, the two SQL views created in Phase 2.
 
@@ -195,4 +190,4 @@ and `vw_layoffs_kpi_summary`, the two SQL views created in Phase 2.
 
 ---
 
-**Brenda Homera** · [LinkedIn](www.linkedin.com/in/bhomera) · [Email](brendahomera12@gmail.com)
+**Brenda Homera** · [LinkedIn](https://www.linkedin.com/in/bhomera) · [Email](mailto:brendahomera12@gmail.com)
